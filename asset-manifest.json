@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LoveCE2R/static/css/main.c30ae9a1.css",
+    "main.js": "/LoveCE2R/static/js/main.af309836.js",
+    "static/js/787.acd547bb.chunk.js": "/LoveCE2R/static/js/787.acd547bb.chunk.js",
+    "static/media/f1.png": "/LoveCE2R/static/media/f1.5116f54e52511435c325.png",
+    "static/media/logo.svg": "/LoveCE2R/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/LoveCE2R/index.html",
+    "main.c30ae9a1.css.map": "/LoveCE2R/static/css/main.c30ae9a1.css.map",
+    "main.af309836.js.map": "/LoveCE2R/static/js/main.af309836.js.map",
+    "787.acd547bb.chunk.js.map": "/LoveCE2R/static/js/787.acd547bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c30ae9a1.css",
+    "static/js/main.af309836.js"
+  ]
+}
